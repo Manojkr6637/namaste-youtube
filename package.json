@@ -2,7 +2,7 @@
   "name": "namaste-youtube",
   "version": "0.1.0",
   "homepage": "http://manojkr6637.github.io/namaste-youtube",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.17.0",
