@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/namaste-youtube/static/css/main.ccc983d8.css",
-    "main.js": "/namaste-youtube/static/js/main.dfccc58b.js",
+    "main.js": "/namaste-youtube/static/js/main.aa0c13bc.js",
     "static/js/787.a4438e77.chunk.js": "/namaste-youtube/static/js/787.a4438e77.chunk.js",
     "index.html": "/namaste-youtube/index.html",
     "main.ccc983d8.css.map": "/namaste-youtube/static/css/main.ccc983d8.css.map",
-    "main.dfccc58b.js.map": "/namaste-youtube/static/js/main.dfccc58b.js.map",
+    "main.aa0c13bc.js.map": "/namaste-youtube/static/js/main.aa0c13bc.js.map",
     "787.a4438e77.chunk.js.map": "/namaste-youtube/static/js/787.a4438e77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccc983d8.css",
-    "static/js/main.dfccc58b.js"
+    "static/js/main.aa0c13bc.js"
   ]
 }
