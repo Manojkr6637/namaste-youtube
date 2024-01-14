@@ -3,7 +3,7 @@ import './App.css'
 import Body from './components/Body'; 
 import Header from './components/Header'
 import store from './utils/store'
-import { BrowserRouter, RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import WatchPage from './components/WatchPage'; 
 import MainContainer from './components/MainContainer';
 import Demo from './components/Demo';
@@ -32,9 +32,7 @@ function App() {
     <Provider store={store}>
     <div > 
     <Header/>
-    <BrowserRouter basename='/namaste-youtube'>
     <RouterProvider router={appRounter} />
-    </BrowserRouter>
     </div></Provider>
   );
 }
