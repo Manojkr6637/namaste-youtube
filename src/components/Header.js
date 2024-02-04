@@ -54,7 +54,7 @@ const Header = () => {
          <input type='text'
          value={searchQuery}
          onChange={(e)=>setSearchQuery(e.target.value)}
-          className='w-1/2  border border-gray-600 p-2 rounded-l-full' placeholder='Search'
+          className='w-1/2  border border-gray-600 p-2 rounded-l-full' placeholder='Search title'
           onFocus={()=>setShowSuggestion(true)}
           onBlur={()=>setShowSuggestion(false)}
            />
